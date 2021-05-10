@@ -74,3 +74,5 @@ typings/
 
 # FuseBox cache
 .fusebox/
+functions/lib/serviceAccountKey.json.json
+functions/src/serviceAccountKey.json.json
